@@ -1,0 +1,17 @@
+body
+{
+background-color:grey
+}
+#heading{
+	
+	border:2px dotted red;
+	background-color:pink;
+	text-align:center;
+	margin-right:29%;
+	margin-left:29%;
+	padding:50px
+}
+#santosh{
+	background-color:yellow
+	
+}
